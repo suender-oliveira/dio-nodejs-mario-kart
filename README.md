@@ -101,3 +101,11 @@
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">At the end, the player with the most points wins</label>
 .
+
+<br>
+<br>
+<p>Extras for battle:
+<ul>
+    <li>draw whether it's a shell (-1 point) or a bomb (-2 points)</li>
+    <li>whoever wins the Battle gets a turbo (+1 point) randomly</li>
+</ul>
